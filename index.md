@@ -23,11 +23,11 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 <!-- Repeat similar sections for other portfolio items -->
 
-## CV
+<!--## CV-->
 
 ### Mojdeh Hosseini
 
-**Contact Information:**
+<!--**Contact Information:**
 - **Email:** [m.haghighathosseini@gmail.com](mailto:m.haghighathosseini@gmail.com)
 - **Phone:** (438) 459-9308
 - **LinkedIn:** [linkedin.com/in/mojdeh-haghighat-hosseini](https://linkedin.com/in/mojdeh-haghighat-hosseini)
