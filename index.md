@@ -25,7 +25,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 <!--## CV-->
 
-### Mojdeh Hosseini
+<!--### Mojdeh Hosseini
 
 <!--**Contact Information:**
 - **Email:** [m.haghighathosseini@gmail.com](mailto:m.haghighathosseini@gmail.com)
