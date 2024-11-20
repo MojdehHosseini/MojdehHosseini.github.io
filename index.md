@@ -51,16 +51,16 @@ Data Analyst with a Master’s degree in Computer Science and extensive experien
 
 ### Certifications
 
-- **Tableau 2024 A-Z: Hands-On Tableau Training for Data Science,**, Kirill Eremenko, Udemy, Nov 2024  
+- **Tableau 2024 A-Z: Hands-On Tableau Training for Data Science**, Kirill Eremenko, Nov 2024  
   [![View on Udemy](https://img.shields.io/badge/Udemy-View_on_Udemy-blue?logo=Udemy)](https://www.udemy.com/certificate/UC-a45bf08f-d1df-4704-bd5c-c07dd3e97de1/)
 
-- **Data Engineering Capstone Project**, IBM, Coursera, Oct 2024  
+- **Data Engineering Capstone Project**, IBM, Oct 2024  
   [![View on Coursera](https://img.shields.io/badge/Coursera-View_on_Coursera-blue?logo=Coursera)](https://coursera.org/share/cd9c506fa56f46527f92532663f71c0c)
 
-- **Data Warehouse Fundamentals**, IBM, Coursera, Oct 2024  
+- **Data Warehouse Fundamentals**, IBM, Oct 2024  
   [![View on Coursera](https://img.shields.io/badge/Coursera-View_on_Coursera-blue?logo=Coursera)](https://www.coursera.org/account/accomplishments/verify/38AJP73ZLVCT)
 
-- **ETL and Data Pipelines with Shell, Airflow and Kafka**, IBM, Coursera, Sep 2024  
+- **ETL and Data Pipelines with Shell, Airflow and Kafka**, IBM, Sep 2024  
   [![View on Coursera](https://img.shields.io/badge/Coursera-View_on_Coursera-blue?logo=Coursera)](https://coursera.org/share/43d4aefc5439a118e5ced5c377819621)
 
 - **The Complete SQL Bootcamp**, Jose Portilla, Udemy, Jan 2023  
