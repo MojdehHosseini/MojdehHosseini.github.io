@@ -52,7 +52,7 @@ Data Analyst with a Master’s degree in Computer Science and extensive experien
 ### Certifications
 
 - **Tableau 2024 A-Z: Hands-On Tableau Training for Data Science,**, Kirill Eremenko, Udemy, Nov 2024  
-  [![View on Udemy](https://img.shields.io/badge/Udemy-View_on_Udemy-blue?logo=Udemy)]([https://www.udemy.com/certificate/UC-afd1142f-1ce6-420c-b459-a43691be792a](https://www.udemy.com/certificate/UC-a45bf08f-d1df-4704-bd5c-c07dd3e97de1/))
+  [![View on Udemy](https://img.shields.io/badge/Udemy-View_on_Udemy-blue?logo=Udemy)](https://www.udemy.com/certificate/UC-a45bf08f-d1df-4704-bd5c-c07dd3e97de1/)
 
 - **Data Engineering Capstone Project**, IBM, Coursera, Oct 2024  
   [![View on Coursera](https://img.shields.io/badge/Coursera-View_on_Coursera-blue?logo=Coursera)](https://coursera.org/share/cd9c506fa56f46527f92532663f71c0c)
