@@ -135,6 +135,7 @@ Data Analyst with a Master’s degree in Computer Science and extensive experien
 - **Developed Data Pipeline:** Designed an end-to-end data pipeline for customer churn analysis, integrating SQL-based data extraction, Apache Spark processing, and Google Sheets reporting.
 - **Dashboard Development:** Created interactive dashboards in Looker Studio to visualize key metrics and trends, providing stakeholders with actionable insights into customer behavior and conversion rates.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/MojdehHosseini/customer-retention-and-similarity-analysis/tree/main)
+
 #### **Data Analyst and Digital Marketer**  
 *Tizland.ir, Tehran, Iran | Sep 2018 – Dec 2020*
 - **Campaign Evaluation and A/B Testing:** Evaluated campaign performance using Google Analytics and led A/B testing for various marketing campaigns to determine the most effective strategies, resulting in increased ROI. Worked closely with marketing, product, and engineering teams to align data analysis efforts with business objectives.
